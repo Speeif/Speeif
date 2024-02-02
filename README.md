@@ -1,30 +1,19 @@
 ```md
-                          /$$$$$$                                 /$$$$$$$$$$$$$$$
-                         /$$__  $$                               | $$  $/      $$$
-                        | $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$  | $$$$/  /$$$  $$
-                        |  $$$$$$  /$$__  $$ /$$__  $$ /$$__  $$ | $$  |  $$$$$$$$
-                         \____  $$| $$  \ $$| $$$$$$$$| $$$$$$$$ | $$  |    $$$$$$
-                         /$$  \ $$| $$  | $$| $$_____/| $$_____/ | $$  |  $$$$$$$$
-                        |  $$$$$$/| $$$$$$$/|  $$$$$$$|  $$$$$$$ | $$  |  $$$$$$$$
-                         \______/ | $$____/  \_______/ \_______/ | $$  |  $$$$$$$$
-                                  | $$                           | $$$$$$$$$$$$$$$
-                                  | $$                           |_______________/
-                                  |__/                                            
+                             /$$$$$$                                 /$$$$$$$$$$$$$$$$$
+                            /$$__  $$                               | $$   $/       $$$
+                           | $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$  | $$$$$/   $$$$  $$
+                           |  $$$$$$  /$$__  $$ /$$__  $$ /$$__  $$ | $$   |   $$$$$$$$
+                            \____  $$| $$  \ $$| $$$$$$$$| $$$$$$$$ | $$   |     $$$$$$
+                            /$$  \ $$| $$  | $$| $$_____/| $$_____/ | $$   |   $$$$$$$$
+                           |  $$$$$$/| $$$$$$$/|  $$$$$$$|  $$$$$$$ | $$   |   $$$$$$$$
+                            \______/ | $$____/  \_______/ \_______/ | $$   |   $$$$$$$$
+                                     | $$                           | $$$$$$$$$$$$$$$$$
+                                     | $$                           |_________________/
+                                     |__/                                            
 ```
+Hiya! I'm Speeif, and I develop different software solutions that I think are neat. I enjoy tinkering with different languages and software tools, so many of my repositories is just me playing around and challenging myself.
 
-### Hi there 👋
+# Promoted repositories
+> [Plantuml-dev-container](https://github.com/Speeif/Plantuml-Dev-Container/)
 
-<!--
-**Speeif/Speeif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository uses *Docker* to supply a dev-container (utilizint the VS-Code **Dev Container** extension) that has been configurated to use a localised plantuml runtime for designing diagrams.
